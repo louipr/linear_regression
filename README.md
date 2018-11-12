@@ -2,7 +2,7 @@
 A linear regression example.
 N normally distributed (X,Y) points are generated and gradient descent is used to minimize MSE 
 ### Source code
-https://github.com/louipr/matplotlib_py
+https://github.com/louipr/linear_regression
 
 
 ### Project Dependencies 
